@@ -1,0 +1,1 @@
+MISTRAL_API_KEY = "v10r1bwxra15KEYu2uALdAf19dSWTrzM"
