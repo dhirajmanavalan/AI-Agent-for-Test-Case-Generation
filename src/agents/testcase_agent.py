@@ -10,7 +10,7 @@ class RequirementInput(BaseModel):
 
 class TestCaseAgent(Agent[RequirementInput, list[TestCase]]):
     def __init__(self):
-        '''Here initializing paretn agent class I am
+        '''Here initializing parent agent class I am
         -->TestCaseAgent is NOT doing work
         PlannerAgent is doing work
         '''

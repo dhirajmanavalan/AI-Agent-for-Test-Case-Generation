@@ -1,9 +1,9 @@
-from agents.testcase_agent import TestCaseAgent, RequirementInput
+from src.agents.testcase_agent import TestCaseAgent, RequirementInput
 
 agent = TestCaseAgent()
 
 req = RequirementInput(
-    requirement="What is India"
+    requirement="Explain about India"
 )
 
 print("FIRST RUN")
